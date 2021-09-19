@@ -1,4 +1,4 @@
-# Discord Music Bot
+# 10K Music Bot
 
 The perfect music bot for your Discord server! 🎶
 
